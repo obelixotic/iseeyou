@@ -1,0 +1,6 @@
+An indoor positioning system that uses wifi to locate people.
+
+How does it work? I scan for devices connected to the different Access Points on the floor using aircrack-ng and then visualize the data using p5 and JavaScript
+
+Here's my blog about the project
+https://www.tushargoyal.xyz/1-s33-you.html
